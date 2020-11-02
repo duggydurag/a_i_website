@@ -2,5 +2,8 @@ li{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 nav{
-    background-color: red;
+    background-color: blue;
+}
+img{
+    width: 100%
 }
